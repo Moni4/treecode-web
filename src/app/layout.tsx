@@ -14,12 +14,12 @@ const font = Poppins({
 export const metadata: Metadata = {
   title: "Treecode",
   description: "Treecode web page",
-    icons: [
+  icons: [
     {
       url: "/favicon.png",
-      href: "/favicon.png"
-    }
-  ]
+      href: "/favicon.png",
+    },
+  ],
 };
 
 export default function RootLayout({
